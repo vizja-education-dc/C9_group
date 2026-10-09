@@ -139,3 +139,4 @@ For the system to be inconsistent, choose a right-hand side where $b_2 \neq 2b_1
      [A \mid b] = \begin{pmatrix} 1 & 2 & 1 \\ 2 & 4 & 3 \end{pmatrix} \xrightarrow{R_2 - 2R_1} \begin{pmatrix} 1 & 2 & 1 \\ 0 & 0 & 1 \end{pmatrix}
      $$
      $\operatorname{rank}(A) = 1 \neq \operatorname{rank}([A \mid b]) = 2$. By Rouché–Capelli, the system is inconsistent (no solutions). $\checkmark$
+

@@ -99,3 +99,4 @@ $$
 $$
 
 Both Sarrus' rule and Laplace expansion yield exactly $33$, verifying the calculation.
+

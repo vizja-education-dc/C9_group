@@ -120,3 +120,4 @@ $$
      -A_0 = \begin{pmatrix} 4 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & -1 \end{pmatrix} \implies \det(-A_0) = (4)(-1)(-1) = 4 \quad \checkmark
      $$
    All properties hold consistently.
+

@@ -82,3 +82,4 @@ $$
    $$
    M_1 M_1^{-1} = \frac{1}{22} \begin{pmatrix} 3 & -2 \\ 5 & 4 \end{pmatrix} \begin{pmatrix} 4 & 2 \\ -5 & 3 \end{pmatrix} = \frac{1}{22} \begin{pmatrix} 12 + 10 & 6 - 6 \\ 20 - 20 & 10 + 12 \end{pmatrix} = \frac{1}{22} \begin{pmatrix} 22 & 0 \\ 0 & 22 \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} = I \quad \checkmark
    $$
+

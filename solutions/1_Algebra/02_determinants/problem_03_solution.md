@@ -114,3 +114,4 @@ The direct calculation confirms the prediction $\det B = -\det A = -6$.
    $$
    $\det P = 0(0) - 1(1 - 0) + 0 = -1$.
    Therefore, $\det B = \det(PA) = \det(P)\det(A) = (-1)(6) = -6 \quad \checkmark$
+

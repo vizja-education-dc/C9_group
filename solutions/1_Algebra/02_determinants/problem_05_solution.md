@@ -121,3 +121,4 @@ $$
   $$
 
 The result obtained via row reduction matches the result from direct formula expansion.
+

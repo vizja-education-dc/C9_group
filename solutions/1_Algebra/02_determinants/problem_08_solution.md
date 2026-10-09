@@ -116,3 +116,4 @@ Therefore, although the resulting matrices $AB$ and $BA$ are distinct, they alwa
    A^{-1}B = \begin{pmatrix} 1/3 & 0 \\ 0 & 1 \end{pmatrix} \begin{pmatrix} 1 & 0 \\ 2 & -5 \end{pmatrix} = \begin{pmatrix} 1/3 & 0 \\ 2 & -5 \end{pmatrix}
    $$
    $\det(A^{-1}B) = (1/3)(-5) - 0 = -5/3 \quad \checkmark$
+

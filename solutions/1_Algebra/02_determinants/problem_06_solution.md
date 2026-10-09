@@ -105,3 +105,4 @@ $$
    \begin{pmatrix} t & 1 \\ 2 & t \end{pmatrix} \cdot \frac{1}{t^2 - 2} \begin{pmatrix} t & -1 \\ -2 & t \end{pmatrix} = \frac{1}{t^2 - 2} \begin{pmatrix} t^2 - 2 & -t + t \\ 2t - 2t & -2 + t^2 \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}
    $$
    The inverse is well-defined if and only if the denominator $t^2 - 2 \neq 0$, confirming $t = \pm\sqrt{2}$ are the only singular points. $\checkmark$
+

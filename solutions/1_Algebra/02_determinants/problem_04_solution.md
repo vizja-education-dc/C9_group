@@ -95,3 +95,4 @@ Each successive step along the first column isolates exactly one diagonal entry,
    Since the determinant is the product of all eigenvalues:
    $$
    \det T = \lambda_1 \lambda_2 \lambda_3 = 2 \times (-3) \times 7 = -42 \quad \checkmark$
+

@@ -130,3 +130,4 @@ $$
    $$
    \det \begin{pmatrix} -2 & -3 \\ 0 & 1 \end{pmatrix} = (-2)(1) - (-3)(0) = -2 \quad \checkmark
    $$
+

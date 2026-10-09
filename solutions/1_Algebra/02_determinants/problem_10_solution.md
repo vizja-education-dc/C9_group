@@ -106,3 +106,4 @@ $$
    $$
    \begin{pmatrix} 1 & 2 & 3 \\ 2 & 4 & 6 \\ 0 & 1 & 5 \end{pmatrix} \begin{pmatrix} 7 \\ -5 \\ 1 \end{pmatrix} = \begin{pmatrix} 1(7) + 2(-5) + 3(1) \\ 2(7) + 4(-5) + 6(1) \\ 0(7) + 1(-5) + 5(1) \end{pmatrix} = \begin{pmatrix} 7 - 10 + 3 \\ 14 - 20 + 6 \\ 0 - 5 + 5 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} \quad \checkmark
    $$
+

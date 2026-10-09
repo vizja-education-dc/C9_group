@@ -112,3 +112,4 @@ $$
    - Main diagonals: $(1 \cdot 5 \cdot 2) + (2 \cdot 7 \cdot 1) + (3 \cdot 2 \cdot 0) = 10 + 14 + 0 = 24$.
    - Anti-diagonals: $(1 \cdot 5 \cdot 3) + (0 \cdot 7 \cdot 1) + (2 \cdot 2 \cdot 2) = 15 + 0 + 8 = 23$.
    - $\det A = 24 - 23 = 1 \quad \checkmark$
+

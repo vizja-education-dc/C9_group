@@ -118,3 +118,4 @@ $$
    If $t = 7$, $\det A(7) = 6 - 7 = -1 \neq 0$ (invertible).
    If $t = 5$, $\det A(5) = 6 - 5 = 1 \neq 0$ (invertible).
    Only $t = 6$ causes linear dependence between the first two rows.
+
