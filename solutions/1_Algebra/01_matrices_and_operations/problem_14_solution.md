@@ -126,3 +126,4 @@ $$
    R(-\alpha) = \begin{pmatrix} \cos\alpha & \sin\alpha \\ -\sin\alpha & \cos\alpha \end{pmatrix} = (R(\alpha))^T = (R(\alpha))^{-1} \quad \checkmark
    $$
    Every 2D rotation matrix is orthogonal ($R^T = R^{-1}$) with $\det(R) = \cos^2\theta + \sin^2\theta = 1$.
+

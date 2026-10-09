@@ -109,3 +109,4 @@ Multiplying a matrix $A$ by an entire matrix $B$ is equivalent to applying the l
 2. **Linear Combination Form for Each Column**:
    - For column 1: $1 \begin{pmatrix} 1 \\ 0 \end{pmatrix} - 1 \begin{pmatrix} 2 \\ 1 \end{pmatrix} + 3 \begin{pmatrix} 0 \\ 1 \end{pmatrix} = \begin{pmatrix} 1 - 2 + 0 \\ 0 - 1 + 3 \end{pmatrix} = \begin{pmatrix} -1 \\ 2 \end{pmatrix} \quad \checkmark$
    - For column 2: $2 \begin{pmatrix} 1 \\ 0 \end{pmatrix} + 0 \begin{pmatrix} 2 \\ 1 \end{pmatrix} + 1 \begin{pmatrix} 0 \\ 1 \end{pmatrix} = \begin{pmatrix} 2 + 0 + 0 \\ 0 + 0 + 1 \end{pmatrix} = \begin{pmatrix} 2 \\ 1 \end{pmatrix} \quad \checkmark$
+

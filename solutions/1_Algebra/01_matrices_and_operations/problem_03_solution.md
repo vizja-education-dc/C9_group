@@ -121,3 +121,4 @@ Formally:
    - $B \circ C: \mathbb{R}^2 \xrightarrow{C} \mathbb{R}^4 \xrightarrow{B} \mathbb{R}^3$ (Valid: $\mathbb{R}^2 \to \mathbb{R}^3 \implies 3 \times 2$) $\checkmark$
    - $C \circ A: \mathbb{R}^3 \xrightarrow{A} \mathbb{R}^2 \xrightarrow{C} \mathbb{R}^4$ (Valid: $\mathbb{R}^3 \to \mathbb{R}^4 \implies 4 \times 3$) $\checkmark$
    - $D \circ A: \mathbb{R}^3 \xrightarrow{A} \mathbb{R}^2 \xrightarrow{D} \mathbb{R}^2$ (Valid: $\mathbb{R}^3 \to \mathbb{R}^2 \implies 2 \times 3$) $\checkmark$
+

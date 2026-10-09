@@ -118,3 +118,4 @@ The identity $(AB)^T = B^T A^T$ holds true.
    - $(AB)_{22} = ((AB)^T)_{22} = 23$
    - $\mathrm{tr}((AB)^T) = 2 + 23 = 25$
    - $\mathrm{tr}(B^T A^T) = 2 + 23 = 25 \quad \checkmark$
+

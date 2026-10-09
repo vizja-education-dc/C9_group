@@ -138,3 +138,4 @@ $$
    - $\det(A) = 2 \cdot 2 - 1 \cdot 0 = 4$
    - $\det(A^2) = 4 \cdot 4 - 4 \cdot 0 = 16 = (\det(A))^2 \quad \checkmark$
    - $\det(A^3) = 8 \cdot 8 - 12 \cdot 0 = 64 = (\det(A))^3 \quad \checkmark$
+

@@ -119,3 +119,4 @@ which confirms that the centralizer of $A$ consists of all linear combinations o
      $$
      AB = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix} \begin{pmatrix} 1 & 0 \\ 0 & 2 \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 0 & 2 \end{pmatrix} \neq \begin{pmatrix} 1 & 1 \\ 0 & 2 \end{pmatrix} = BA \quad \checkmark
      $$
+

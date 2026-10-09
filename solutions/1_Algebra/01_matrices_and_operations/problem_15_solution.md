@@ -140,3 +140,4 @@ The grouping of intermediate operations does not change the algebraic outcome or
    Columns of $(AB)C$ using column form:
    - First column of $C$ is $\begin{pmatrix} 2 \\ 0 \end{pmatrix} \implies 2 \times (\text{column 1 of } AB) = 2 \begin{pmatrix} 5 \\ 1 \end{pmatrix} = \begin{pmatrix} 10 \\ 2 \end{pmatrix} \quad \checkmark$
    - Second column of $C$ is $\begin{pmatrix} 1 \\ -1 \end{pmatrix} \implies 1 \begin{pmatrix} 5 \\ 1 \end{pmatrix} - 1 \begin{pmatrix} 2 \\ 4 \end{pmatrix} = \begin{pmatrix} 3 \\ -3 \end{pmatrix} \quad \checkmark$
+

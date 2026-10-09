@@ -118,3 +118,4 @@ $$
    - $\mathrm{tr}(AB) = 8 + 1 = 9$
    - $\mathrm{tr}(BA) = 2 + 7 = 9$
    $\mathrm{tr}(AB) = \mathrm{tr}(BA) = 9 \quad \checkmark$
+

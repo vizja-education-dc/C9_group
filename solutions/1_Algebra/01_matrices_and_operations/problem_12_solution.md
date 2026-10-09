@@ -131,3 +131,4 @@ $$
    A^a A^b = \begin{pmatrix} 1 & a \\ 0 & 1 \end{pmatrix} \begin{pmatrix} 1 & b \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 1 & a + b \\ 0 & 1 \end{pmatrix} = A^{a+b} \quad \checkmark
    $$
    Matrix multiplication aligns identically with exponent addition.
+

@@ -110,3 +110,4 @@ $$
    - $\det(R) = 0 - (-1) = 1$ (area is preserved)
    - $\det(RS) = \det(SR) = 2 \times 1 = 2$.
    Both composite matrices have determinant $2$, preserving the signed area scaling factor even though they transform individual points to different locations.
+

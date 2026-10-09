@@ -158,3 +158,4 @@ Thus, multiplying by $F$ advances the recurrence by exactly one time step.
      f_6 f_4 - f_5^2 = (8)(3) - 5^2 = 24 - 25 = -1 = (-1)^5 \quad \checkmark
      $$
    This proves Cassini's famous identity directly from matrix properties!
+
